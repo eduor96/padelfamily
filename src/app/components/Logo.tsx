@@ -20,7 +20,7 @@ export function Logo({ size = 'md', className = '' }: LogoProps) {
         <div className="absolute bottom-0 left-1/4 w-3/4 h-3/4 bg-accent/20 rounded-full mix-blend-multiply filter blur-2xl" />
       </div>
       <img
-        src="/src/imports/Logo-Padel-Family-sin-fondo.png"
+        src="/logo-padel-family.png"
         alt="Padel Family"
         className="w-full h-full object-contain relative z-10"
       />
